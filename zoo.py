@@ -58,9 +58,4 @@ def final_ticket(group):
                     
     print(f"TOTAL PRICE: {total_price:4.2f} $")
 
-final_ticket(age_entry())
-
-
-
-
-
+final_ticket(age_entry())                  
